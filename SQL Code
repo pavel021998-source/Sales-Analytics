@@ -162,7 +162,7 @@ ORDER BY u.date
 
 
 -- Швидка візуалізація
-Looker Studio:
-https://datastudio.google.com/reporting/e2fee2dd-1d8e-4b35-bc98-a65358c79bd3
+-- Looker Studio:
+-- https://datastudio.google.com/reporting/e2fee2dd-1d8e-4b35-bc98-a65358c79bd3
 
 
